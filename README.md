@@ -58,7 +58,3 @@ Exiting loop
 ```
 
 
-
----
-
-🪔 Jai Hind, Rakhee. This README will make your GitHub upload shine with clarity and professionalism. Do you want me to also craft a **short project description tagline** (like a one-liner for your repo header) to give it extra sparkle?
