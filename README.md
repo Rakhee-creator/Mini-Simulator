@@ -1,5 +1,5 @@
 Mini Simulator – Array Update & Access  
-# Overview  
+*Overview  
 This mini project demonstrates how arrays can be made 
 interactive through a **console-based mini simulator**. The program allows the user to:  
 - Update array elements at chosen indexes  
@@ -7,13 +7,14 @@ interactive through a **console-based mini simulator**. The program allows the u
 - Print the entire array  
 - Exit gracefully  
 
-# Tech Used  
+*Tech Used  
 - Java Arrays** → For storing and modifying elements  
 - Scanner Class** → For user input  
 - Switch Case** → For menu-driven control flow  
 - For Loops** → For traversing and printing arrays  
-- Do-While Loop** → For continuous interaction until exit  
-# How It Works  
+- Do-While Loop** → For continuous interaction until exit
+  
+*How It Works  
 1. The program initializes an array with sample values.  
 2. Displays a menu with options:  
    - Update an element  
@@ -21,9 +22,9 @@ interactive through a **console-based mini simulator**. The program allows the u
    - Print the whole array  
    - Exit  
 3. The user selects an option, and the program executes the corresponding block.  
-4. The loop continues until the user chooses to exit.  
-
-# Example Run  
+4. The loop continues until the user chooses to exit.
+   
+* Example Run  
 ```
 Original Array list: 10 20 30 40  
 Main Menu -Click Option below:  
