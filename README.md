@@ -1,27 +1,19 @@
-# Mini Simulator – Array Update & Access  
-
-## 📖 Overview  
-This project is part of **Scroll 6** in Rakhee’s Java learning journey. It demonstrates how arrays can be made 
+Mini Simulator – Array Update & Access  
+# Overview  
+This mini project demonstrates how arrays can be made 
 interactive through a **console-based mini simulator**. The program allows the user to:  
 - Update array elements at chosen indexes  
 - Access values at chosen indexes  
 - Print the entire array  
 - Exit gracefully  
 
-It’s a playful yet practical way to practice **array modification and access** using Java fundamentals.  
-
----
-
-## 🛠️ Tech Used  
-- **Java Arrays** → For storing and modifying elements  
-- **Scanner Class** → For user input  
-- **Switch Case** → For menu-driven control flow  
-- **For Loops** → For traversing and printing arrays  
-- **Do-While Loop** → For continuous interaction until exit  
-
----
-
-## 🚀 How It Works  
+# Tech Used  
+- Java Arrays** → For storing and modifying elements  
+- Scanner Class** → For user input  
+- Switch Case** → For menu-driven control flow  
+- For Loops** → For traversing and printing arrays  
+- Do-While Loop** → For continuous interaction until exit  
+# How It Works  
 1. The program initializes an array with sample values.  
 2. Displays a menu with options:  
    - Update an element  
@@ -31,9 +23,7 @@ It’s a playful yet practical way to practice **array modification and access**
 3. The user selects an option, and the program executes the corresponding block.  
 4. The loop continues until the user chooses to exit.  
 
----
-
-## 🎯 Example Run  
+# Example Run  
 ```
 Original Array list: 10 20 30 40  
 Main Menu -Click Option below:  
